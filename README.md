@@ -1,2 +1,2 @@
 # abyx
- Ai BY eXemple
+Learn Ai BY eXemple
