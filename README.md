@@ -1,2 +1,2 @@
 # abyx
-Learn Ai BY eXemple
+Learn Ai BY eXample
